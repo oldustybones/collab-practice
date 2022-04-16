@@ -1,4 +1,29 @@
-.nav-container {
-    background-color: cornflowerblue;
-    length: 5%
+h1 {
+    text-align: center;
+    border-bottom: dotted;
+}
+
+.nav-fill {
+    border-bottom: dotted;
+}
+
+.container {
+    padding: 15px;
+    
+}
+
+.containerCustomL {
+    border: dotted;
+    margin-right: 50%;
+    margin-top: 15px;
+    height: 500px;
+    text-align: center;
+}
+
+.containerCustomR {
+    display: flex;
+    justify-content: start;
+    border: dotted;
+    margin-left: 50%;
+    height: 500px;
 }
