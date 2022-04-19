@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    border-bottom: dotted;
+}
+
+.nav-item {
+    border-bottom: dotted;
+    height: 50px;
+}
+
+.containerCustomL {
+    border: dotted;
+    margin-right: 50%;
+    margin-top: 15px;
+    height: 500px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.containerCustomR {
+    display: flex;
+    justify-content: start;
+    border: dotted;
+    margin-left: 50%;
+    height: 500px;
+    background-color: red;
+}
+
+footer {
+    border: dotted;
+    padding: 15px;
+    background-color: aquamarine;
+}
