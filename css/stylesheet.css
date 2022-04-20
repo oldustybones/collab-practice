@@ -8,7 +8,7 @@ h1 {
     height: 50px;
 }
 
-.containerCustomL {
+/*.containerCustomL {
     border: dotted;
     margin-right: 50%;
     margin-top: 15px;
@@ -24,7 +24,36 @@ h1 {
     margin-left: 50%;
     height: 500px;
     background-color: red;
+}*/
+
+.col {
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1px;
+    width: 100%;
 }
+
+/*.row {
+    display: flex;
+    justify-content: space-between;
+}*/
+
+.columnLeft, .columnRight {
+    border: dotted;
+    height: 120px;
+}
+
+.columnLeft {
+    background-color: gray;
+    height: 500px;
+}
+
+.columnRight {
+    background-color: blue;
+    height: 500px;
+}
+
 
 footer {
     border: dotted;
