@@ -8,6 +8,15 @@ h1 {
     height: 50px;
 }
 
+.jumbotron {
+    font-weight: bold;
+    font-size:x-large;
+    width: 100%;
+    border: none;
+    height: 200px;
+    
+}
+
 .containerCustomL {
     border: dotted;
     margin-right: 50%;
